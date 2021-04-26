@@ -22,8 +22,8 @@ const BlogTitle = styled.h3`
 export default ({data}) => (
   <Layout>
   <div>
-    <h1>Osas' Thoughts</h1>
-    <h4>{data.allMarkdownRemark.totalCount} Posts</h4>
+    <h1>Currin Countries API</h1>
+   
     {
       data.allMarkdownRemark.edges.map(({node})=> (
         <div key={node.id}>
