@@ -57,7 +57,7 @@ export const query = graphql`
             slug
           }
           html
-          excerpt(truncate: true)
+          excerpt(truncate: false)
         }
       }
       totalCount
