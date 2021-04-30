@@ -4,22 +4,22 @@ date: '2017-08-21'
 description: 'Easy Peasy :)'
 ---
 
- # Usage is quite simple.
+ # Quite simple. (<-- two spaces)
 
- ## Base URL : [https://currin.herokuapp.com/currin/level5]
+ Base URL : [https://currin.herokuapp.com/currin/level5] (<-- two spaces)
 
- Endpoints :
+ Endpoints : (<-- two spaces)
 
- Show Countries group
+ Show Countries group (<-- two spaces)
 
- [/countries/group/:alphabet]
- e.g [/currin/level5/countries/group/s]
+ [/countries/group/:alphabet] (<-- two spaces)
+ e.g [/currin/level5/countries/group/s] (<-- two spaces)
 
- Show One Country
+ Show One Country (<-- two spaces)
 
- [/countries/:countryName]
- e.g [/currin/level5/countries/nigeria]
+ [/countries/:countryName] (<-- two spaces)
+ e.g [/currin/level5/countries/nigeria] (<-- two spaces)
 
- Show All Countries
+ Show All Countries (<-- two spaces)
 
- [/countries]
+ [/countries] (<-- two spaces)
